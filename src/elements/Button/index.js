@@ -2,8 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import propTypes from 'prop-types';
 
-//revli test created new branch
-
 export default function Button(props) {
 
     const className = [props.className]
